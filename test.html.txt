@@ -2,7 +2,7 @@
 
 <head>
 
-    <title>Hello Github</title>
+    <title>push to Github</title>
 
 <body>
     Hello Github
